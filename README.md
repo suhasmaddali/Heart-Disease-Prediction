@@ -5,7 +5,7 @@ Predicting the condition of the patient in the case of heart disease is really i
 
 ![Alt text](Image1.jpg) ![Alt text](images.jpg)
 
-There are many classification metrics that should be taken into consideration when performing the machine learning analysis. Considering the metrics, it is possible evaluate the performance of different machine learning and deep learning models respectively. We would be tabulating the results for this particular dataset. We would be looking at various machine learning models and understanding their hyperparameters in the process so as to build the best version of the models.
+There are many classification metrics that should be taken into consideration when performing the machine learning analysis. Considering the metrics, it is possible to evaluate the performance of different machine learning and deep learning models respectively. We would be tabulating the results for this particular dataset. We would be looking at various machine learning models and understanding their hyperparameters in the process so as to build the best version of the models.
 
 In addition to this, we would also be plotting various graphs and understanding the relationships between various features in the dataset. We would first check if there are any null values in the data. After doing that step, we would then understand how the data is spread and their overall percentile values. We would be plotting the graphs and trying to see if there is any feature that could be reduced if there is a correlation. 
 
