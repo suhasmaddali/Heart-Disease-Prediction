@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-Predicting the condition of a patient in the case of heart disease is really important. It would be good if a patient could get to know the condition before itself rather than visiting the doctor. Patients spend a significant amount of time trying to get appointment from doctors. After they get the appointment, they would have to give a lot of tests. It is also important that a doctor be present so that they could treat them. To make things worse, the tests usually take a long time before diagnosing whether a person would suffer from a heart disease. It would be handy and better if we automate this process which ensures that we save a lot of time and effort on the part of the doctor and patient. 
+Predicting the condition of a patient in the case of heart disease is really important. It would be good if a patient could get to know the condition before itself rather than visiting the doctor. Patients spend a significant amount of time trying to get appointment from doctors. After they get the appointment, they would have to give a lot of tests. It is also important that a doctor be present so that they could treat them. To make things worse, the tests usually take a long time before diagnosing whether a person would suffer from a heart disease. However, it would be handy and better if we automate this process which ensures that we save a lot of time and effort on the part of the doctor and patient. 
 
 ![Alt text](Image1.jpg) ![Alt text](images.jpg)
 
