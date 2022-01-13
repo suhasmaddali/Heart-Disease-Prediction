@@ -6,8 +6,9 @@
 
 Predicting the condition of a patient in the case of heart disease is really important. It would be good if a patient could get to know the condition before itself rather than visiting the doctor. 
 
+![Alt text](Image1.jpg)
 
-![Alt text](Image1.jpg) ![Alt text](images.jpg)
+![Alt text](images.jpg)
 
 ## Machine Learning and Data Science 
 
