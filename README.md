@@ -30,6 +30,7 @@ We would be using these tools to calculate the accuracy, precision and recall to
 When we are performing EDA, interesting insights could be drawn from the data and understood. Below are the key insights that were found as a result of working with the data. 
 
 * The features __'thalach'__ and __'slope'__ are positively correlated. However, they are not highly correlated.
+* Features such as __'age'__ and __'thalach'__ are negatively correlated as indicated by the correlation heatmap plot. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
