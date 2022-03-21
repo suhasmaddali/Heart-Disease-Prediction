@@ -31,6 +31,8 @@ When we are performing EDA, interesting insights could be drawn from the data an
 
 * The features __'thalach'__ and __'slope'__ are positively correlated. However, they are not highly correlated.
 * Features such as __'age'__ and __'thalach'__ are negatively correlated as indicated by the correlation heatmap plot. 
+* __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
+* The features __'cp'__ and __'exang'__ are negatively correlated.
 
 ## 👉 Directions to download the repository and run the notebook 
 
