@@ -33,6 +33,7 @@ When we are performing EDA, interesting insights could be drawn from the data an
 * Features such as __'age'__ and __'thalach'__ are negatively correlated as indicated by the correlation heatmap plot. 
 * __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
 * The features __'cp'__ and __'exang'__ are negatively correlated.
+* The feature __'resting blood pressure'__ is somewhat positively correlated with __'age'__ as shown in the plots. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
