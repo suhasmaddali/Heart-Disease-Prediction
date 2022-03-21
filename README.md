@@ -32,7 +32,7 @@ We would be using these tools to calculate the accuracy, precision and recall to
 When we are performing EDA, interesting insights could be drawn from the data and understood. Below are the key insights that were found as a result of working with the data. 
 
 * The features __'thalach'__ and __'slope'__ are positively correlated. However, they are not highly correlated.
-* Features such as __'age'__ and __'thalach'__ are negatively correlated as indicated by the correlation heatmap plot. 
+* Features such as __'age'__ and __'thalach'__ which stands for maximum heart rate achieved are negatively correlated as indicated by the correlation heatmap plot. 
 * __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
 * The features __'cp'__ and __'exang'__ are negatively correlated.
 * The feature __'resting blood pressure'__ is somewhat positively correlated with __'age'__ as shown in the plots. 
