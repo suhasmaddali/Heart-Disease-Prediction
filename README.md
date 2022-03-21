@@ -25,6 +25,10 @@ In addition to this, we would also be plotting various graphs and understanding 
 We would consider various important classification metrics for different machine learning models using the sklearn library from python. 
 We would be using these tools to calculate the accuracy, precision and recall to name a few. For each machine learning model, we would then be drawing and tabulating the results at the end so that one would get a good idea about which algorithm did the best in each metric. One thing to keep in mind is that this is just a very small data set which is used just to understand the machine learning models and implement them easily. Therefore, one can go to use much more complex datasets by keeping these steps in mind while performing the execution. 
 
+## Exploratory Data Analysis (EDA)
+
+When we are performing EDA, interesting insights could be drawn from the data and understood. Below are the key insights that were found as a result of working with the data. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
