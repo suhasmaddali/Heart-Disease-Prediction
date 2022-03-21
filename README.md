@@ -29,6 +29,8 @@ We would be using these tools to calculate the accuracy, precision and recall to
 
 When we are performing EDA, interesting insights could be drawn from the data and understood. Below are the key insights that were found as a result of working with the data. 
 
+* The features __'thalach'__ and __'slope'__ are positively correlated. However, they are not highly correlated.
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
