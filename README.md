@@ -36,7 +36,16 @@ When we are performing EDA, interesting insights could be drawn from the data an
 * __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
 * The features __'cp'__ and __'exang'__ are negatively correlated.
 * The feature __'resting blood pressure'__ is somewhat positively correlated with __'age'__ as shown in the plots. 
-* The feature __'trestbps'__ that stands for resting blood pressure is somewhat correlated with the feature __'fbs'__ that stands for fasting blood pressure. 
+* The feature __'trestbps'__ that stands for resting blood pressure is somewhat correlated with the feature __'fbs'__ that stands for fasting blood pressure.
+
+## Machine Learning Models 
+
+There were many machine learning models used in the process of predicting the heart diseases. Below are the models that were used along with their summary.
+
+* K Nearest Neighbors (KNN)
+* Logistic Regression
+* Naive Bayes
+* Random Forest Classifier 
 
 ## 👉 Directions to download the repository and run the notebook 
 
