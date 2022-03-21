@@ -34,6 +34,7 @@ When we are performing EDA, interesting insights could be drawn from the data an
 * __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
 * The features __'cp'__ and __'exang'__ are negatively correlated.
 * The feature __'resting blood pressure'__ is somewhat positively correlated with __'age'__ as shown in the plots. 
+* The feature __'trestbps'__ that stands for resting blood pressure is somewhat correlated with the feature __'fbs'__ that stands for fasting blood pressure. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
