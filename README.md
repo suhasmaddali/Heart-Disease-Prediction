@@ -40,7 +40,7 @@ When we are performing EDA, interesting insights could be drawn from the data an
 
 ## Machine Learning Models 
 
-There were many machine learning models used in the process of predicting the heart diseases. Below are the models that were used along with their summary.
+There were many machine learning models used in the process of predicting the __heart diseases__. Below are the models that were used in the process of predicting the heart diseases.
 
 * __K Nearest Neighbors (KNN)__
 * __Logistic Regression__
