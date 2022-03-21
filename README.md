@@ -14,7 +14,9 @@ With the aid of machine learning, it is possible to get to know the condition of
 
 ## Data 
 
-Some of the input features that we would be considering in this example are blood pressure, chest pain type and cholestrol levels. This is just a sample dataset with 303 rows. This is created just to understand different classification machine learning algorithms and sklearn implementation of them. 
+Some of the input features that we would be considering in this example are blood pressure, chest pain type and cholestrol levels. This is just a sample dataset with 303 rows. This is created just to understand different classification machine learning algorithms and sklearn implementation of them. Below is the link where you can find the source of the data. Thanks to 'kaggle' for providing this data. 
+
+https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 ## Data Visualization 
 
