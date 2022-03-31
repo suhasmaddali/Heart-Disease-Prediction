@@ -54,9 +54,9 @@ There were many machine learning models used in the process of predicting the __
 
 ## Future Scope
 
-* Additional data from many sources could be taken so that the models would be able to perdict for different conditions for the patients.
-* More features that help determine whether a person would suffer from a heart disease could be considered.
-* The best machine learning model could be integrated in a health app where doctors can use the app to determine whether a person would suffer from a heart disease. 
+* __Additional data__ from many sources could be taken so that the models would be able to perdict for __different conditions__ for the patients.
+* __More features__ that help determine whether a person would suffer from a heart disease could be considered.
+* The best machine learning model could be integrated in a __health app__ where doctors can use the app to determine whether a person would suffer from a __heart disease__. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
