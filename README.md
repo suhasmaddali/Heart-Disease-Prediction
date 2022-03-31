@@ -47,6 +47,10 @@ There were many machine learning models used in the process of predicting the __
 * __Naive Bayes__
 * __Random Forest Classifier__
 
+## Outcomes
+
+* 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
