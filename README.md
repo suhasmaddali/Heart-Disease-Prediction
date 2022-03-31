@@ -49,9 +49,8 @@ There were many machine learning models used in the process of predicting the __
 
 ## Outcomes
 
-* Based on the results generated, it could be seen that the Naive Bayes model was performing the best in terms of the F1 score, precision and recall respectively. 
-* Naive Bayes model was also having the highest accuracy in terms of classifying whether a person would have a heart disease or not. 
-* 
+* Based on the results generated, it could be seen that the __Naive Bayes model__ was performing the best in terms of the __F1 score__, __precision__ and __recall__ respectively. 
+* __Naive Bayes model__ was also having the __highest accuracy__ in terms of classifying whether a person would have a __heart disease__ or not. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
