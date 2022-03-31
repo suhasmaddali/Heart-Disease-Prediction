@@ -50,7 +50,13 @@ There were many machine learning models used in the process of predicting the __
 ## Outcomes
 
 * Based on the results generated, it could be seen that the __Naive Bayes model__ was performing the best in terms of the __F1 score__, __precision__ and __recall__ respectively. 
-* __Naive Bayes model__ was also having the __highest accuracy__ in terms of classifying whether a person would have a __heart disease__ or not. 
+* __Naive Bayes model__ was also having the __highest accuracy__ in terms of classifying whether a person would have a __heart disease__ or not.
+
+## Future Scope
+
+* Additional data from many sources could be taken so that the models would be able to perdict for different conditions for the patients.
+* More features that help determine whether a person would suffer from a heart disease could be considered.
+* The best machine learning model could be integrated in a health app where doctors can use the app to determine whether a person would suffer from a heart disease. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
