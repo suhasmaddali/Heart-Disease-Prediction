@@ -43,7 +43,7 @@ When we are performing EDA, interesting insights could be drawn from the data an
 There were many machine learning models used in the process of predicting the __heart diseases__. Below are the models that were used in the process of predicting the heart diseases.
 
 * [__K Nearest Neighbors (KNN)__](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
-* __Logistic Regression__
+* [__Logistic Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 * __Naive Bayes__
 * __Random Forest Classifier__
 
