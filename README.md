@@ -6,9 +6,9 @@
 
 Predicting the condition of a patient in the case of __heart disease__ is important. It would be good if a patient could get to know the condition before itself rather than visiting the doctor. Patients spend a __significant amount__ of time trying to get an appointment with doctors. After they get the appointment, they would have to give a lot of tests. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub.jpg" width = 250/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub.jpg" width = 250/> ![Alt text](Image1.jpg) ![Alt text](images.jpg)
 
-![Alt text](Image1.jpg) ![Alt text](images.jpg)
+
 
 It is also important that a doctor be present so that they could treat them. To make things worse, the tests usually take a long time before __diagnosing__ whether a person would suffer from heart disease. However, it would be handy and better if we automate this process which ensures that we save a lot of time and effort on the part of the doctor and patient. 
 
