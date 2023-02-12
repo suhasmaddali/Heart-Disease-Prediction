@@ -6,7 +6,7 @@
 
 Predicting the condition of a patient in the case of __heart disease__ is important. It would be good if a patient could get to know the condition before itself rather than visiting the doctor. Patients spend a __significant amount__ of time trying to get an appointment with doctors. After they get the appointment, they would have to give a lot of tests. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub.jpg" width = 250/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub%202.jpg" width = 250/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Stethescope%20Image%20GitHub.jpg" width = 250/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub.jpg" height = 300 width = 250/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub%202.jpg" width = 250/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Stethescope%20Image%20GitHub.jpg" width = 250/>
 
 
 
