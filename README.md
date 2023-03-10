@@ -26,6 +26,8 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 In this section, we will be visualizing some interests plots and trends in the data which is used by machine learning models to make predictions. We will also evaluate the performance of different machine learning and deep learning models on a given dataset by comparing various metrics. To identify the best version of each model, we will examine their hyperparameters.
 
+<img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data.png"/>
+
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
