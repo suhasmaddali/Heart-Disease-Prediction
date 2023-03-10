@@ -30,11 +30,11 @@ To begin, we will review the list of rows and columns (features) in our dataset,
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data.png"/>
 
-Similarly, let us look at a list of non-null values present in the data to get an idea about missing values present in them. There are 303 entries which means there are 303 patients in the dataset. The total memory usage is also less which means there is no need to perform downcasting. 
+Next, we will examine the list of non-null values in the data to identify any missing values. Since there are 303 entries, we know that the dataset includes 303 patients. Additionally, the memory usage is minimal, so downcasting is not necessary.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20info.png"/>
 
-Next, we will examine the list of non-null values in the data to identify any missing values. Since there are 303 entries, we know that the dataset includes 303 patients. Additionally, the memory usage is minimal, so downcasting is not necessary.
+
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20description.png"/>
 
