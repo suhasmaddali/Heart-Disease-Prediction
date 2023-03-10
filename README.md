@@ -38,6 +38,9 @@ The study's participants have an average age of approximately 55 years. While mo
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20description.png"/>
 
+The study's participants have an **average age** of approximately **55 years**. While most values in the dataset are **numerical**, some are **categorical**. To convert categorical features into numerical ones, we will use **one-hot encoding**.
+
+
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
