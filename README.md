@@ -38,10 +38,9 @@ The study's participants have an **average age** of approximately **55 years**. 
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20description.png"/>
 
-This plot demonstrates the total number of patients who had a heart disease vs. the number of patients who did not have a heart disease. This shows that a large of patients had heart disease. Therefore, this becomes easy for us to build interesting classifiers as we have more information about patients with heart disease. In addition, the total classes are balanced which means that we can use metrics such as accuracy for understanding the ML model performance. 
+This plot demonstrates the total number of patients who had a **heart disease** vs. the number of patients who did not have a **heart disease**. This shows that a large number of patients had **heart disease**. Therefore, it becomes easy for us to build interesting **classifiers** as we have more information about patients with **heart disease**. In addition, the total classes are **balanced** which means that we can use metrics such as **accuracy** for understanding the ML model performance.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Target%20count.png"/>
-
 
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
 
