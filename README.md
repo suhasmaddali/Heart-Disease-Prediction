@@ -39,6 +39,7 @@ The study's participants have an **average age** of approximately **55 years**. 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20description.png"/>
 
 
+<img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Target%20count.png"/>
 
 
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
