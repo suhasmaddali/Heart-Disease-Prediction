@@ -34,7 +34,7 @@ Next, we will examine the list of non-null values in the data to identify any mi
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20info.png"/>
 
-The average age of the persons in the study is about 55 years. Almost all the values are numerical but there are some values that are categorical. We can be using one-hot encoding to ensure that categorical features are converted to numerical features. 
+The study's participants have an average age of approximately 55 years. While most values in the dataset are numerical, some are categorical. To convert categorical features into numerical ones, we will use one-hot encoding.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20description.png"/>
 
