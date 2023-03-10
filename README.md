@@ -22,7 +22,7 @@ Some of the input features that would be considered in this example are __blood 
 
 https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
-## Data Visualization 
+## Visualizations 
  
 * Considering the metrics, it is possible to evaluate the performance of different machine learning and deep learning models respectively. 
 * We would be tabulating the results for this particular dataset. 
