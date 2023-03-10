@@ -24,16 +24,11 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 ## Visualizations 
  
-* Considering the metrics, it is possible to evaluate the performance of different machine learning and deep learning models respectively. 
-* We would be tabulating the results for this particular dataset. 
-* We would be looking at various machine learning models and understanding their hyperparameters in the process so as to build the best version of the models.
-* In addition to this, we would also be plotting various graphs and understanding the relationships between various features in the dataset.
-* We would first check if there are any null values in the data. 
-* After doing that step, we would then understand how the data is spread and their overall percentile values. 
-* We would be plotting the graphs and trying to see if there is any feature that could be reduced if there is a correlation. 
-* We would consider various important classification metrics for different machine learning models using the sklearn library from python. 
-* We would be using these tools to calculate the accuracy, precision, and recall to name a few. 
-* For each machine learning model, we would then be drawing and tabulating the results at the end so that one would get a good idea about which algorithm did the best in each metric. 
+We will evaluate the performance of different machine learning and deep learning models on a given dataset by comparing various metrics. To identify the best version of each model, we will examine their hyperparameters.
+
+Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
+
+To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
 
 ## Exploratory Data Analysis (EDA)
 
