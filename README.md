@@ -8,8 +8,6 @@ Predicting the condition of a patient in the case of __heart disease__ is import
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub.jpg" height = 375 width = 250/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Heart%20Image%20GitHub%202.jpg" height = 375 width = 250/> <img src = "https://github.com/suhasmaddali/Images/blob/main/Stethescope%20Image%20GitHub.jpg" height = 375 width = 250/>
 
-
-
 It is also important that a doctor be present so that they could treat them. To make things worse, the tests usually take a long time before __diagnosing__ whether a person would suffer from heart disease. However, it would be handy and better if we automate this process which ensures that we save a lot of time and effort on the part of the doctor and patient. 
 
 ## Machine Learning and Data Science 
@@ -41,8 +39,6 @@ The study's participants have an **average age** of approximately **55 years**. 
 This plot demonstrates the total number of patients who had a **heart disease** vs. the number of patients who did not have a **heart disease**. This shows that a large number of patients had **heart disease**. Therefore, it becomes easy for us to build interesting **classifiers** as we have more information about patients with **heart disease**. In addition, the total classes are **balanced** which means that we can use metrics such as **accuracy** for understanding the ML model performance.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Target%20count.png"/>
-
-Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
 
