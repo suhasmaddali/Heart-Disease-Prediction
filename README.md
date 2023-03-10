@@ -34,11 +34,11 @@ Next, we will examine the list of non-null values in the data to identify any mi
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20info.png"/>
 
-The study's participants have an average age of approximately 55 years. While most values in the dataset are numerical, some are categorical. To convert categorical features into numerical ones, we will use one-hot encoding.
+The study's participants have an **average age** of approximately **55 years**. While most values in the dataset are **numerical**, some are **categorical**. To convert categorical features into numerical ones, we will use **one-hot encoding**.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20description.png"/>
 
-The study's participants have an **average age** of approximately **55 years**. While most values in the dataset are **numerical**, some are **categorical**. To convert categorical features into numerical ones, we will use **one-hot encoding**.
+
 
 
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
