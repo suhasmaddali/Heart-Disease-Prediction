@@ -26,6 +26,8 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 In this section, we will be visualizing some interests plots and trends in the data which is used by machine learning models to make predictions. We will also evaluate the performance of different machine learning and deep learning models on a given dataset by comparing various metrics. To identify the best version of each model, we will examine their hyperparameters.
 
+To begin, we will review the list of rows and columns (features) in our dataset, which includes age, sex, cp (chest pain), chol, and others. This will provide insight into the types of features present and help us determine if additional features are necessary for analysis.
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data.png"/>
 
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
