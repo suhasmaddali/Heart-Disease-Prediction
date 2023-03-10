@@ -23,8 +23,7 @@ Some of the input features that would be considered in this example are __blood 
 https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 ## Data Visualization 
-
-* There are many classification metrics that should be taken into consideration when performing the machine learning analysis. 
+ 
 * Considering the metrics, it is possible to evaluate the performance of different machine learning and deep learning models respectively. 
 * We would be tabulating the results for this particular dataset. 
 * We would be looking at various machine learning models and understanding their hyperparameters in the process so as to build the best version of the models.
@@ -35,8 +34,6 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
 * We would consider various important classification metrics for different machine learning models using the sklearn library from python. 
 * We would be using these tools to calculate the accuracy, precision, and recall to name a few. 
 * For each machine learning model, we would then be drawing and tabulating the results at the end so that one would get a good idea about which algorithm did the best in each metric. 
-* One thing to keep in mind is that this is just a very small data set that is used just to understand the machine learning models and implement them easily.
-* Therefore, one can go to use much more complex datasets by keeping these steps in mind while performing the execution. 
 
 ## Exploratory Data Analysis (EDA)
 
