@@ -30,6 +30,10 @@ To begin, we will review the list of rows and columns (features) in our dataset,
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data.png"/>
 
+Similarly, let us look at a list of non-null values present in the data to get an idea about missing values present in them. There are 303 entries which means there are 303 patients in the dataset. The total memory usage is also less which means there is no need to perform downcasting. 
+
+<img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Data%20info.png"/>
+
 Before proceeding, we will check for any null values in the data. We will then assess the data's spread and percentile values using graphs and plot features to identify potential correlations.
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
