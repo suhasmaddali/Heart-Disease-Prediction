@@ -40,6 +40,8 @@ This plot demonstrates the total number of patients who had a **heart disease** 
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Target%20count.png"/>
 
+The plot shows the prevalence of heart disease by gender. The data has more samples for males than females and suggests a gender difference in survival rates. The data is slightly imbalanced but not significantly.
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Gender%20plot.png"/>
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
