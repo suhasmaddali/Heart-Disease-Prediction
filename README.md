@@ -44,6 +44,8 @@ The plot shows the **prevalence** of heart disease by **gender**. The data has m
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Gender%20plot.png"/>
 
+<img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Heatmap.png"/>
+
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
 
 ## Exploratory Data Analysis (EDA)
