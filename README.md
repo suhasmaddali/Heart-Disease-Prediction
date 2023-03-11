@@ -40,7 +40,7 @@ This plot demonstrates the total number of patients who had a **heart disease** 
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Target%20count.png"/>
 
-The plot shows the prevalence of heart disease by gender. The data has more samples for males than females and suggests a gender difference in survival rates. The data is slightly imbalanced but not significantly.
+The plot shows the **prevalence** of heart disease by **gender**. The data has more samples for males than females and suggests a gender difference in **survival rates**. The data is slightly imbalanced but not significantly.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Gender%20plot.png"/>
 
