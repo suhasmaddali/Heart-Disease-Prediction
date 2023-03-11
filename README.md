@@ -50,6 +50,8 @@ The heatmap shows the **correlations** between pairs of features. The lighter th
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/thalach%20vs%20age.png"/>
 
+<img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/scatterplots.png"/>
+
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
 
 ## Exploratory Data Analysis (EDA)
