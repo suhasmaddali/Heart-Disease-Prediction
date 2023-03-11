@@ -44,6 +44,8 @@ The plot shows the **prevalence** of heart disease by **gender**. The data has m
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Gender%20plot.png"/>
 
+The heatmap shows the **correlations** between pairs of features. The lighter the color, the stronger the correlation according to the color map. For example, 'thalach' and 'slope' have a positive correlation, while 'slope' and 'oldpeak' have a negative correlation. Other features can be further explored for their correlations.
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Heatmap.png"/>
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
