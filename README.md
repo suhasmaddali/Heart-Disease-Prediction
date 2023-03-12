@@ -54,6 +54,8 @@ There are some interesting **trends and patterns** found in the dataset. It coul
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/scatterplots.png"/>
 
+<img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Chol%20Vs.%20Age%20Scatterplots.png"/>
+
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
 
 ## Exploratory Data Analysis (EDA)
