@@ -50,6 +50,8 @@ The heatmap shows the **correlations** between pairs of features. The lighter th
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/thalach%20vs%20age.png"/>
 
+There are some interesting **trends and patterns** found in the dataset. It could be seen that **higher values of thalach** and **lower values of oldpeak** can have an impact about whether a person can suffer from heart disease. All in all, having a higher value of thalach is one of the factors that can be leading to heart disease according to the scatterplots displayed below. 
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/scatterplots.png"/>
 
 To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
