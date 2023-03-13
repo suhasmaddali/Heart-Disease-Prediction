@@ -68,6 +68,8 @@ According to the dataset, the **average** age of the patients is approximately 5
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Age%20boxplot.png"/>
 
+The plot displays the **performance** of various machine learning models based on different **evaluation metrics**, including accuracy, f1-score, precision, recall, and AUC scores. Naive Bayes stands out as a promising model for predicting heart disease, having achieved a high accuracy rate. Moreover, both KNN and Naive Bayes exhibit similar f1-scores and AUC scores, indicating comparable overall performance in terms of predicting heart disease.
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Model%20Outcomes%20Metrics.png"/>
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Normalized%20metrics.png"/>
