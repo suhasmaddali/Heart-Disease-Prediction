@@ -64,7 +64,7 @@ The **cholesterol** feature in our dataset is univariate and primarily concentra
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Cholestrol%20boxplot.png"/>
 
-The average age, according to the dataset, is close to around 55 years. The minimum age of all the patients is 30 while the maximum age is about 85 years respectively. A large portion of people are in the ages ranging from 50-60 years. 
+According to the dataset, the **average** age of the patients is approximately 55 years, with the youngest being 30 and the oldest being 85 years old. The majority of individuals fall within the age range of 50-60 years.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Age%20boxplot.png"/>
 
