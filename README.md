@@ -48,7 +48,7 @@ The heatmap shows the **correlations** between pairs of features. The lighter th
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Heatmap.png"/>
 
-Generally, there is a downward trend when plotting between age and thalach. Therefore, this is shown in the plot below where there is a downward trend that could be used to help the model decide what values of thalach could be used to determine age and so forth. Overall, they could be useful in model predictions. 
+The plot below shows a **negative** correlation between age and thalach. This suggests that thalach can be a predictor of age and vice versa. This relationship can be useful for model predictions.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/thalach%20vs%20age.png"/>
 
