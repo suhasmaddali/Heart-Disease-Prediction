@@ -48,6 +48,8 @@ The heatmap shows the **correlations** between pairs of features. The lighter th
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Heatmap.png"/>
 
+Generally, there is a downward trend when plotting between age and thalach. Therefore, this is shown in the plot below where there is a downward trend that could be used to help the model decide what values of thalach could be used to determine age and so forth. Overall, they could be useful in model predictions. 
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/thalach%20vs%20age.png"/>
 
 There are some interesting **trends and patterns** found in the dataset. It could be seen that **higher values of thalach** and **lower values of oldpeak** can have an impact about whether a person can suffer from heart disease. All in all, having a higher value of thalach is one of the factors that can be leading to heart disease according to the scatterplots displayed below. 
