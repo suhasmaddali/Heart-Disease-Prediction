@@ -60,7 +60,7 @@ The plot shows a strong **positive** correlation between age and cholesterol lev
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Chol%20Vs.%20Age%20Scatterplots.png"/>
 
-We can also take a look at a univariate feature called 
+We can also take a look at a univariate feature called 'cholestrol' where a large portion of values are in the range of 200-300. There are few outliers in the data such as 400 or 500. Since we do not have a large number of samples in the data, we can still not discard these features when feeding to ML models for predictions. 
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Cholestrol%20boxplot.png"/>
 
