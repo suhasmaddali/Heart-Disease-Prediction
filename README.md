@@ -56,9 +56,11 @@ There are some interesting **trends and patterns** found in the dataset. It coul
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/scatterplots.png"/>
 
-There seems to be a good positive correlation between age and cholestrol levels. This is true in real-life as individuals with higher age tend to have higher cholestrol levels. This can change depending on the country at which the details of people are taken. However, this is a general trend followed in the plot. 
+The plot shows a strong **positive** correlation between age and cholesterol levels. This reflects the common observation that older people tend to have higher cholesterol levels. This may vary across different countries and populations, but it is a general trend in the plot.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Chol%20Vs.%20Age%20Scatterplots.png"/>
+
+We can also take a look at a univariate feature called 
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Cholestrol%20boxplot.png"/>
 
