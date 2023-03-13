@@ -20,6 +20,17 @@ Some of the input features that would be considered in this example are __blood 
 
 https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
+## Exploratory Data Analysis (EDA)
+
+When we are performing EDA, interesting insights could be drawn from the data and understood. Below are the key insights that were found as a result of working with the data. 
+
+* The features __'thalach'__ and __'slope'__ are positively correlated. However, they are not highly correlated.
+* Features such as __'age'__ and __'thalach'__ which stands for __maximum heart rate achieved__ are negatively correlated as indicated by the correlation heatmap plot. 
+* __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
+* The features __'cp'__ and __'exang'__ are negatively correlated.
+* The feature __'resting blood pressure'__ is somewhat positively correlated with __'age'__ as shown in the plots. 
+* The feature __'trestbps'__ that stands for resting blood pressure is somewhat correlated with the feature __'fbs'__ that stands for fasting blood pressure.
+
 ## Visualizations 
 
 In this section, we will be visualizing some interests plots and trends in the data which is used by machine learning models to make predictions. We will also evaluate the performance of different machine learning and deep learning models on a given dataset by comparing various metrics. To identify the best version of each model, we will examine their hyperparameters.
@@ -73,19 +84,6 @@ The plot displays the **performance** of various machine learning models based o
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Model%20Outcomes%20Metrics.png"/>
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Normalized%20metrics.png"/>
-
-To evaluate each model, we will use the sklearn library from Python to calculate important classification metrics such as accuracy, precision, and recall. For each machine learning model, we will tabulate the results for each metric, allowing us to compare and identify which algorithm performed best overall.
-
-## Exploratory Data Analysis (EDA)
-
-When we are performing EDA, interesting insights could be drawn from the data and understood. Below are the key insights that were found as a result of working with the data. 
-
-* The features __'thalach'__ and __'slope'__ are positively correlated. However, they are not highly correlated.
-* Features such as __'age'__ and __'thalach'__ which stands for __maximum heart rate achieved__ are negatively correlated as indicated by the correlation heatmap plot. 
-* __'age'__ is negatively correlated with __'restecg'__ as shown in the heatmap plot.
-* The features __'cp'__ and __'exang'__ are negatively correlated.
-* The feature __'resting blood pressure'__ is somewhat positively correlated with __'age'__ as shown in the plots. 
-* The feature __'trestbps'__ that stands for resting blood pressure is somewhat correlated with the feature __'fbs'__ that stands for fasting blood pressure.
 
 ## Machine Learning Models 
 
