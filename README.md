@@ -107,7 +107,6 @@ There were many machine learning models used in the process of predicting the __
 
 * __Additional data__ from many sources could be taken so that the models would be able to predict for __different conditions__ for the patients.
 * __More features__ that help determine whether a person would suffer from heart disease could be considered.
-* The best machine learning model could be integrated with a __health app__ where doctors can use the app to determine whether a person would suffer from a __heart disease__. 
 * The **Naive Bayes model**, which had the best performance, could be deployed in real-time to provide doctors with faster inference results. This could aid in the diagnosis of whether a person is suffering from heart disease or not. 
 * The quick and accurate results from the model could potentially help **doctors** make more timely and effective decisions in treating their patients.
 
