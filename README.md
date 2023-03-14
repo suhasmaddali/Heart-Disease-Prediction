@@ -102,6 +102,8 @@ There were many machine learning models used in the process of predicting the __
 
 * Based on the results generated, it could be seen that the __Naive Bayes model__ was performing the best in terms of the __F1 score__, __precision__, and __recall__ respectively. 
 * __Naive Bayes model__ was also having the __highest accuracy__ in terms of classifying whether a person would have a __heart disease__ or not.
+* The **Naive Bayes model**, which had the best performance, could be deployed in real-time to provide doctors with faster inference results. This could aid in the diagnosis of whether a person is suffering from heart disease or not. 
+* The quick and accurate results from the model could potentially help **doctors** make more timely and effective decisions in treating their patients.
 
 ## Future Scope
 
