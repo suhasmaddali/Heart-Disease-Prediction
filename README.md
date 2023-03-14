@@ -83,6 +83,8 @@ The plot displays the **performance** of various machine learning models based o
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Model%20Outcomes%20Metrics.png"/>
 
+The data that was given to the model was initially not normalized but it was standardized. 
+
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Normalized%20metrics.png"/>
 
 ## Machine Learning Models 
