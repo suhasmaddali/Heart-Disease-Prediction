@@ -85,7 +85,7 @@ The plot displays the **performance** of various machine learning models based o
 
 In machine learning, **normalization** and **standardization** are common preprocessing techniques used to ensure that data distribution does not affect model performance. If the initial data given to the model was standardized but not normalized, we can perform normalization and assess model performance on the test set.
 
-After normalization, the Naive Bayes model had the highest accuracy and F1-score compared to other models. This suggests that Naive Bayes is a good fit for the normalized data.
+After normalization, the **Naive Bayes model** had the highest accuracy and F1-score compared to other models. This suggests that Naive Bayes is a good fit for the normalized data.
 
 <img src = "https://github.com/suhasmaddali/Heart-Disease-Prediction/blob/main/images/Normalized%20metrics.png"/>
 
